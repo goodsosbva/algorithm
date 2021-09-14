@@ -1,4 +1,6 @@
 # 연결 리스트 팬린드롬 판별 - 런너 방법
+# 연결 리스트를 내가 직접 구현
+# 팬린드롬 자체는 매우 쉬움 ( 234. palindrome linked list ) 와 연결 리스트 구조는 동일
 import ctypes
 
 
